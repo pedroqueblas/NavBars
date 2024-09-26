@@ -1,9 +1,7 @@
 
-
-
 ---
 
-NavBars
+# NavBars
 
 Este repositório contém uma coleção de NavBars customizadas e responsivas criadas usando HTML, CSS, e JavaScript. O objetivo é fornecer exemplos reutilizáveis para desenvolvedores front-end.
 
