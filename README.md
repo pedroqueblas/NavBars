@@ -1,5 +1,5 @@
-_____________________________________________________________________________________________________________________________________
-NavBars
+
+#NavBars
 Este repositório contém diferentes exemplos de barras de navegação (NavBars) desenvolvidas com foco em design moderno e responsivo.
 
 Requisitos
