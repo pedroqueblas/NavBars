@@ -1,5 +1,6 @@
+#
+NavBars
 
-#NavBars
 Este repositório contém diferentes exemplos de barras de navegação (NavBars) desenvolvidas com foco em design moderno e responsivo.
 
 Requisitos
@@ -57,4 +58,4 @@ Se você precisar trabalhar em uma nova feature ou correção de bug, crie uma b
 bash
 Copiar código
 git checkout -b nome-da-branch
-_____________________________________________________________________________________________________________________________________
+Este é um guia básico para começar a usar Git no projeto NavBars. Mais detalhes sobre o projeto e os diferentes exemplos de NavBars serão adicionados nas próximas atualizações.
